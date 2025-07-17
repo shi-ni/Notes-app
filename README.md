@@ -12,4 +12,4 @@ A simple web app to save and search notes using HTML, JavaScript and Bootstrap.
 
 ## 📸 Screenshot
 
-![Notes App Screenshot](./screenshot.png).
+![Notes App Screenshot](./screenshot.jpg)
